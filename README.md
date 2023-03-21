@@ -1,6 +1,6 @@
 # Horário
-Para acessar o projeto eu fiz um subdominio [![Projetos](https://img.shields.io/badge/Horario-red.svg)](https://lovely-selkie-2b8c07.netlify.app/)
 Este é um pequeno projeto em JavaScript que exibe a hora e a data atual em uma página web. A página também possui um fundo de tela personalizado.
+Para acessar o projeto eu fiz um subdominio [![Projetos](https://img.shields.io/badge/Horario-red.svg)](https://lovely-selkie-2b8c07.netlify.app/)<br>
 
 ## Como usar
 
