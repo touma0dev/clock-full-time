@@ -3,7 +3,7 @@ Este é um pequeno projeto em JavaScript que exibe a hora e a data atual em uma 
 Para acessar o projeto eu fiz um subdominio [![Projetos](https://img.shields.io/badge/Horario-red.svg)](https://lovely-selkie-2b8c07.netlify.app/)<br>
 
 ## Como usar
-
+[LINK](https://clocktoumadev.netlify.app/) <br>
 1. Clone este repositório em sua máquina local.
 2. Abra o arquivo `index.html` em um navegador da web.
 3. A hora e a data atual serão exibidas na página.
